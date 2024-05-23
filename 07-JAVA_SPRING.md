@@ -94,19 +94,6 @@
 </ul>
 </details>
 
-<details>
-  <summary><h3>12. AOP에 대해 설명해 주세요.</h3></summary>
-<ul>
-<li> @Aspect는 어떻게 동작하나요?</li>
-</ul>
-</details>
-
-<details>
-  <summary><h3>13. Spring 에서 Interceptor와 Servlet Filter에 대해 설명해 주세요.</h3></summary>
-<ul>
-<li> 설명만 들어보면 인터셉터만 쓰는게 나아보이는데, 아닌가요? 필터는 어떤 상황에 사용 해야 하나요?</li>
-</ul>
-</details>
 
 <details>
   <summary><h3>14. DispatcherServlet 의 역할에 대해 설명해 주세요.</h3></summary>
