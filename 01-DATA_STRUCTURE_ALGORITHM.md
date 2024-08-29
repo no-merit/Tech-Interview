@@ -1,18 +1,8 @@
 ## 자료구조
-### 혹시 코딩테스트를 원한다면... [이쪽](https://github.com/VSFe/Algorithm_Study)은 어떠신가요? ~~제껍니다...~~
 
-<details>
 
  
 
- <details>
-  <summary><h3>6. 힙에 대해 설명해 주세요.</h3></summary>
-<ul>
-<li> 힙을 배열로 구현한다고 가정하면, 어떻게 값을 저장할 수 있을까요?</li>
-<li> 힙의 삽입, 삭제 방식에 대해 설명하고, 왜 이진탐색트리와 달리 편향이 발생하지 않는지 설명해 주세요.</li>
-<li> 힙 정렬의 시간복잡도는 어떻게 되나요? Stable 한가요?</li>
-</ul>
-</details>   
 
  <details>
   <summary><h3>7. BBST (Balanced Binary Search Tree) 와, 그 종류에 대해 설명해 주세요.</h3></summary>
