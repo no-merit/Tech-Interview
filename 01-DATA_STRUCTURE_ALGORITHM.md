@@ -14,21 +14,6 @@
 </details>   
 
  <details>
-  <summary><h3>8. 정렬 알고리즘에 대해 설명해 주세요.</h3></summary>
-<ul>
-<li> Quick Sort와 Merge Sort를 비교해 주세요.</li>
-<li> Quick Sort에서 O(N^2)이 걸리는 예시를 들고, 이를 개선할 수 있는 방법에 대해 설명해 주세요.</li>
-<li> Stable Sort가 무엇이고, 어떤 정렬 알고리즘이 Stable 한지 설명해 주세요.</li>
-<li> Merge Sort를 재귀를 사용하지 않고 구현할 수 있을까요?</li>
-<li> Radix Sort에 대해 설명해 주세요.</li>
-<li> Bubble, Selection, Insertion Sort의 속도를 비교해 주세요. </li>
-<li> 값이 <strong>거의</strong> 정렬되어 있거나, 아예 정렬되어 있다면, 위 세 알고리즘의 성능 비교 결과는 달라질까요? </li>
-<li> 본인이 사용하고 있는 언어에선, 어떤 정렬 알고리즘을 사용하여 정렬 함수를 제공하고 있을까요? </li>
-<li> 정렬해야 하는 데이터는 50G 인데, 메모리가 4G라면, 어떤 방식으로 정렬을 진행할 수 있을까요? </li>
-</ul>
-</details>   
-
- <details>
   <summary><h3>9. 그래프 자료구조에 대해 설명하고, 이를 구현할 수 있는 두 방법에 대해 설명해 주세요.</h3></summary>
 <ul>
 <li> 각 방법에 대해, "두 정점이 연결되었는지" 확인하는 시간복잡도와 "한 정점에 연결된 모든 정점을 찾는" 시간복잡도, 그리고 공간복잡도를 비교해 주세요.</li>
