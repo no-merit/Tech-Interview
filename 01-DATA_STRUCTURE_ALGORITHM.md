@@ -1,17 +1,7 @@
 ## 자료구조
 
 
- 
 
-
- <details>
-  <summary><h3>7. BBST (Balanced Binary Search Tree) 와, 그 종류에 대해 설명해 주세요.</h3></summary>
-<ul>
-<li> Red Black Tree는 어떻게 균형을 유지할 수 있을까요?</li>
-<li> Red Black Tree의 주요 성질 4가지에 대해 설명해 주세요.</li>
-<li> 2-3-4 Tree, AVL Tree 등의 다른 BBST 가 있음에도, 왜 Red Black Tree가 많이 사용될까요?</li>
-</ul>
-</details>   
 
  <details>
   <summary><h3>9. 그래프 자료구조에 대해 설명하고, 이를 구현할 수 있는 두 방법에 대해 설명해 주세요.</h3></summary>
