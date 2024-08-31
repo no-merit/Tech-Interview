@@ -1,16 +1,6 @@
 ## 네트워크
 
 <details>
-  <summary><h3>1. 쿠키와 세션의 차이에 대해 설명해 주세요.</h3></summary>
-<ul>
-<li> 세션 방식의 로그인 과정에 대해 설명해 주세요.</li>
-<li> HTTP의 특성인 Stateless에 대해 설명해 주세요.</li>
-<li> Stateless의 의미를 살펴보면, 세션은 적절하지 않은 인증 방법 아닌가요?</li>
-<li> 규모가 커져 서버가 여러 개가 된다면, 세션을 어떻게 관리할 수 있을까요?</li>
-</ul>
-</details>
-
-<details>
   <summary><h3>2. HTTP 응답코드에 대해 설명해 주세요.</h3></summary>
 <ul>
 <li> 401 (Unauthorized) 와 403 (Forbidden)은 의미적으로 어떤 차이가 있나요?</li>
