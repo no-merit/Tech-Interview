@@ -1,24 +1,5 @@
 ## 네트워크
 
-
-<details>
-  <summary><h3>4. HTTP에 대해 설명해 주세요.</h3></summary>
-<ul>
-<li> 공개키와 대칭키에 대해 설명해 주세요.</li>
-<li> 왜 HTTPS Handshake 과정에서는 인증서를 사용하는 것 일까요?</li>
-<li> SSL과 TLS의 차이는 무엇인가요?</li>
-</ul>
-</details>
-
-<details>
-  <summary><h3>5. 웹소켓과 소켓 통신의 차이에 대해 설명해 주세요.</h3></summary>
-<ul>
-<li> 소켓과 포트의 차이가 무엇인가요?</li>
-<li> 여러 소켓이 있다고 할 때, 그 소켓의 포트 번호는 모두 다른가요?</li>
-<li> 사용자의 요청이 무수히 많아지면, 소켓도 무수히 생성되나요?</li>
-</ul>
-</details>
-
 <details>
   <summary><h3>6. HTTP/1.1과 HTTP/2의 차이점은 무엇인가요?</h3></summary>
 <ul>
