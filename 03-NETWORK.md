@@ -55,20 +55,7 @@
 </ul>
 </details>
 
-<details>
-  <summary><h3>7. TCP와 UDP의 차이에 대해 설명해 주세요.</h3></summary>
-<ul>
-<li> Checksum이 무엇인가요?</li>
-<li> TCP와 UDP 중 어느 프로토콜이 Checksum을 수행할까요?</li>
-<li> 그렇다면, Checksum을 통해 오류를 정정할 수 있나요? </li>
-<li> TCP가 신뢰성을 보장하는 방법에 대해 설명해 주세요.</li>
-<li> TCP의 혼잡 제어 처리 방법에 대해 설명해 주세요.</li>
-<li> 왜 HTTP는 TCP를 사용하나요?</li>
-<li> 그렇다면, 왜 HTTP/3 에서는 UDP를 사용하나요? 위에서 언급한 UDP의 문제가 해결되었나요?</li>
-<li> 그런데, 브라우저는 어떤 서버가 TCP를 쓰는지 UDP를 쓰는지 어떻게 알 수 있나요?</li>
-<li> 본인이 새로운 통신 프로토콜을 TCP나 UDP를 사용해서 구현한다고 하면, 어떤 기준으로 프로토콜을 선택하시겠어요?</li>
-</ul>
-</details>
+
 
 <details>
   <summary><h3>8. DHCP가 무엇인지 설명해 주세요.</h3></summary>
@@ -106,26 +93,7 @@
 </ul>
 </details>
 
-<details>
-  <summary><h3>11. 3-Way Handshake에 대해 설명해 주세요.</h3></summary>
-<ul>
-<li> ACK, SYN 같은 정보는 어떻게 전달하는 것 일까요?</li>
-<li> 2-Way Handshaking 를 하지않는 이유에 대해 설명해 주세요.</li>
-<li> 두 호스트가 동시에 연결을 시도하면, 연결이 가능한가요? 가능하다면 어떻게 통신 연결을 수행하나요?</li>
-<li> SYN Flooding 에 대해 설명해 주세요.</li>
-<li> 위 질문과 모순될 수 있지만, 3-Way Handshake의 속도 문제 때문에 이동 수를 줄이는 0-RTT 기법을 많이 적용하고 있습니다. 어떤 방식으로 가능한 걸까요?</li>
-</ul>
-</details>
 
-<details>
-  <summary><h3>12. 4-Way Handshake에 대해 설명해 주세요.</h3></summary>
-<ul>
-<li> 패킷이 4-way handshake 목적인지 어떻게 파악할 수 있을까요?</li>
-<li> 빨리 끊어야 할 경우엔, (즉, 4-way Handshake를 할 여유가 없다면) 어떻게 종료할 수 있을까요?</li>
-<li> 4-Way Handshake 과정에서 중간에 한쪽 네트워크가 강제로 종료된다면, 반대쪽은 이를 어떻게 인식할 수 있을까요?</li>
-<li> 왜 종료 후에 바로 끝나지 않고, TIME_WAIT 상태로 대기하는 것 일까요? </li>
-</ul>
-</details>
 
 <details>
   <summary><h3>13. www.github.com을 브라우저에 입력하고 엔터를 쳤을 때, 네트워크 상 어떤 일이 일어나는지 최대한 자세하게 설명해 주세요.</h3></summary>
@@ -185,14 +153,6 @@
 </ul>
 </details>
 
-<details>
-  <summary><h3>19. 서브넷 마스크와, 게이트웨이에 대해 설명해 주세요.</h3></summary>
-<ul>
-<li> NAT에 대해 설명해 주세요. </li>
-<li> 서브넷 마스크의 표현 방식에 대해 설명해 주세요.</li>
-<li> 그렇다면, 255.0.255.0 같은 꼴의 서브넷 마스크도 가능한가요?</li>
-</ul>
-</details>
 
 <details>
   <summary><h3>20. 멀티플렉싱과 디멀티플렉싱에 대해 설명해 주세요.</h3></summary>
